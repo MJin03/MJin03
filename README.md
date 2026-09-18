@@ -15,10 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mjin03&show_icons=true&theme=tokyonight&icon_color=AA0017">
 </p>
 
-<h3 align="left">⚡ Baekjoon Status ⚡</h3>
-<p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalwls1220">
-</p>
 
 <h3 align="left">📫 How to reach me 📫</h3>
 <p align="left">
